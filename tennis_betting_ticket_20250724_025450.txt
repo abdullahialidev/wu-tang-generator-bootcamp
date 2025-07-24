@@ -1,0 +1,280 @@
+🎾 TENNIS BETTING ANALYSIS TICKET 🎾
+📅 Date: 2025-07-24
+⏰ Generated: 02:54:50
+================================================================================
+
+🏆 MATCH 1: WASHINGTON OPEN
+🎾 Taylor Fritz vs Ben Shelton
+🏟️  Round: Round of 32 | Surface: HARD
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Ben Shelton
+📊 Confidence Level: 7.3%
+📈 Set Prediction: Close match - could go either way
+⚠️  Risk Assessment: HIGH
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Taylor Fritz (+7.2%)
+     • Taylor Fritz: 78.9% win rate on hard
+     • Ben Shelton: 71.7% win rate on hard
+  💪 Fatigue Factor: Ben Shelton (+40.0%)
+  📈 Form/Ranking: Taylor Fritz (+1.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 TAYLOR FRITZ:
+    🚀 Aces: Expected 13.8 | O8.5: YES | O12.5: YES (Conf: 90%)
+         Height & surface adjusted: 13.8 (base: 12.5)
+    ❌ Double Faults: Expected 2.8 | O3.5: NO | O4.5: NO (Conf: 56%)
+         Surface adjusted: 2.8 (base: 2.8)
+    🔥 Breaks: Expected 1.9 | O1.5: YES | O2.5: NO (Conf: 52%)
+         Return skill vs opponent serve defense: 1.9 breaks expected
+
+  👤 BEN SHELTON:
+    🚀 Aces: Expected 16.7 | O8.5: YES | O12.5: YES (Conf: 90%)
+         Height & surface adjusted: 16.7 (base: 15.2)
+    ❌ Double Faults: Expected 4.1 | O3.5: YES | O4.5: NO (Conf: 83%)
+         Surface adjusted: 4.1 (base: 4.1)
+    🔥 Breaks: Expected 1.4 | O1.5: NO | O2.5: NO (Conf: 61%)
+         Return skill vs opponent serve defense: 1.4 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ 🎯 Taylor Fritz Aces Over 12.5 (HIGH CONFIDENCE)
+  ✅ 🎯 Ben Shelton Aces Over 12.5 (HIGH CONFIDENCE)
+  ✅ 🎯 Ben Shelton Double Faults Over 3.5
+
+================================================================================
+
+🏆 MATCH 2: WASHINGTON OPEN
+🎾 Alex de Minaur vs Frances Tiafoe
+🏟️  Round: Round of 32 | Surface: HARD
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Alex de Minaur
+📊 Confidence Level: 21.8%
+📈 Set Prediction: 2-0
+⚠️  Risk Assessment: MEDIUM
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Alex de Minaur (+8.6%)
+     • Alex de Minaur: 70.0% win rate on hard
+     • Frances Tiafoe: 61.4% win rate on hard
+  💪 Fatigue Factor: Alex de Minaur (+60.0%)
+  📈 Form/Ranking: Alex de Minaur (+19.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 ALEX DE MINAUR:
+    🚀 Aces: Expected 4.8 | O8.5: NO | O12.5: NO (Conf: 82%)
+         Height & surface adjusted: 4.8 (base: 4.8)
+    ❌ Double Faults: Expected 1.9 | O3.5: NO | O4.5: NO (Conf: 83%)
+         Surface adjusted: 1.9 (base: 1.9)
+    🔥 Breaks: Expected 1.9 | O1.5: YES | O2.5: NO (Conf: 51%)
+         Return skill vs opponent serve defense: 1.9 breaks expected
+
+  👤 FRANCES TIAFOE:
+    🚀 Aces: Expected 8.9 | O8.5: YES | O12.5: NO (Conf: 59%)
+         Height & surface adjusted: 8.9 (base: 8.9)
+    ❌ Double Faults: Expected 3.7 | O3.5: YES | O4.5: NO (Conf: 70%)
+         Surface adjusted: 3.7 (base: 3.2)
+    🔥 Breaks: Expected 1.4 | O1.5: NO | O2.5: NO (Conf: 62%)
+         Return skill vs opponent serve defense: 1.4 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ WINNER: Alex de Minaur (Confidence: 21.8%)
+  ✅ SET BETTING: 2-0
+  ✅ 🎯 Alex de Minaur Aces Under 5.5
+  ✅ 🎯 Frances Tiafoe Double Faults Over 3.5
+
+================================================================================
+
+🏆 MATCH 3: KITZBUHEL OPEN
+🎾 Casper Ruud vs Sebastian Baez
+🏟️  Round: Round of 16 | Surface: CLAY
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Casper Ruud
+📊 Confidence Level: 7.9%
+📈 Set Prediction: Close match - could go either way
+⚠️  Risk Assessment: HIGH
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Casper Ruud (+10.4%)
+     • Casper Ruud: 80.0% win rate on clay
+     • Sebastian Baez: 69.6% win rate on clay
+  💪 Fatigue Factor: Sebastian Baez (+0.0%)
+  📈 Form/Ranking: Casper Ruud (+21.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 CASPER RUUD:
+    🚀 Aces: Expected 4.3 | O8.5: NO | O12.5: NO (Conf: 87%)
+         Height & surface adjusted: 4.3 (base: 6.2)
+    ❌ Double Faults: Expected 2.2 | O3.5: NO | O4.5: NO (Conf: 75%)
+         Surface adjusted: 2.2 (base: 2.1)
+    🔥 Breaks: Expected 2.1 | O1.5: YES | O2.5: NO (Conf: 52%)
+         Return skill vs opponent serve defense: 2.1 breaks expected
+
+  👤 SEBASTIAN BAEZ:
+    🚀 Aces: Expected 2.0 | O8.5: NO | O12.5: NO (Conf: 90%)
+         Height & surface adjusted: 2.0 (base: 3.1)
+    ❌ Double Faults: Expected 2.5 | O3.5: NO | O4.5: NO (Conf: 64%)
+         Surface adjusted: 2.5 (base: 2.8)
+    🔥 Breaks: Expected 1.9 | O1.5: YES | O2.5: NO (Conf: 52%)
+         Return skill vs opponent serve defense: 1.9 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ 🎯 Casper Ruud Aces Under 5.5
+  ✅ 🎯 Sebastian Baez Aces Under 5.5
+
+================================================================================
+
+🏆 MATCH 4: UMAG OPEN
+🎾 Lorenzo Musetti vs Francisco Cerundolo
+🏟️  Round: Quarterfinals | Surface: CLAY
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Lorenzo Musetti
+📊 Confidence Level: 11.8%
+📈 Set Prediction: 2-1
+⚠️  Risk Assessment: HIGH
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Francisco Cerundolo (+0.0%)
+     • Lorenzo Musetti: 70.0% win rate on clay
+     • Francisco Cerundolo: 70.0% win rate on clay
+  💪 Fatigue Factor: Lorenzo Musetti (+40.0%)
+  📈 Form/Ranking: Lorenzo Musetti (+9.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 LORENZO MUSETTI:
+    🚀 Aces: Expected 5.2 | O8.5: NO | O12.5: NO (Conf: 78%)
+         Height & surface adjusted: 5.2 (base: 7.4)
+    ❌ Double Faults: Expected 2.6 | O3.5: NO | O4.5: NO (Conf: 62%)
+         Surface adjusted: 2.6 (base: 2.9)
+    🔥 Breaks: Expected 1.9 | O1.5: YES | O2.5: NO (Conf: 51%)
+         Return skill vs opponent serve defense: 1.9 breaks expected
+
+  👤 FRANCISCO CERUNDOLO:
+    🚀 Aces: Expected 4.1 | O8.5: NO | O12.5: NO (Conf: 89%)
+         Height & surface adjusted: 4.1 (base: 5.8)
+    ❌ Double Faults: Expected 3.1 | O3.5: NO | O4.5: NO (Conf: 52%)
+         Surface adjusted: 3.1 (base: 3.4)
+    🔥 Breaks: Expected 1.8 | O1.5: YES | O2.5: NO (Conf: 54%)
+         Return skill vs opponent serve defense: 1.8 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ 🎯 Lorenzo Musetti Aces Under 5.5
+  ✅ 🎯 Francisco Cerundolo Aces Under 5.5
+
+================================================================================
+
+🏆 MATCH 5: PRAGUE OPEN
+🎾 Petra Kvitova vs Linda Noskova
+🏟️  Round: Semifinals | Surface: CLAY
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Linda Noskova
+📊 Confidence Level: 3.9%
+📈 Set Prediction: Close match - could go either way
+⚠️  Risk Assessment: HIGH
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Linda Noskova (+14.5%)
+     • Petra Kvitova: 45.5% win rate on clay
+     • Linda Noskova: 60.0% win rate on clay
+  💪 Fatigue Factor: Linda Noskova (+0.0%)
+  📈 Form/Ranking: Petra Kvitova (+6.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 PETRA KVITOVA:
+    🚀 Aces: Expected 4.8 | O8.5: NO | O12.5: NO (Conf: 82%)
+         Height & surface adjusted: 4.8 (base: 6.8)
+    ❌ Double Faults: Expected 2.8 | O3.5: NO | O4.5: NO (Conf: 56%)
+         Surface adjusted: 2.8 (base: 3.1)
+    🔥 Breaks: Expected 2.1 | O1.5: YES | O2.5: NO (Conf: 52%)
+         Return skill vs opponent serve defense: 2.1 breaks expected
+
+  👤 LINDA NOSKOVA:
+    🚀 Aces: Expected 2.9 | O8.5: NO | O12.5: NO (Conf: 90%)
+         Height & surface adjusted: 2.9 (base: 4.2)
+    ❌ Double Faults: Expected 2.8 | O3.5: NO | O4.5: NO (Conf: 56%)
+         Surface adjusted: 2.8 (base: 2.7)
+    🔥 Breaks: Expected 1.9 | O1.5: YES | O2.5: NO (Conf: 53%)
+         Return skill vs opponent serve defense: 1.9 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ 🎯 Petra Kvitova Aces Under 5.5
+  ✅ 🎯 Linda Noskova Aces Under 5.5
+
+================================================================================
+
+🏆 MATCH 6: WASHINGTON OPEN WTA
+🎾 Emma Raducanu vs Naomi Osaka
+🏟️  Round: Round of 16 | Surface: HARD
+────────────────────────────────────────────────────────────
+🎯 WINNER PREDICTION: Naomi Osaka
+📊 Confidence Level: 13.9%
+📈 Set Prediction: 2-1
+⚠️  Risk Assessment: HIGH
+
+📋 DETAILED ANALYSIS:
+  🏟️  Surface Advantage: Naomi Osaka (+9.9%)
+     • Emma Raducanu: 58.1% win rate on hard
+     • Naomi Osaka: 68.1% win rate on hard
+  💪 Fatigue Factor: Naomi Osaka (+60.0%)
+  📈 Form/Ranking: Emma Raducanu (+23.0%)
+
+🎯 PLAYER PROPS ANALYSIS:
+
+  👤 EMMA RADUCANU:
+    🚀 Aces: Expected 3.8 | O8.5: NO | O12.5: NO (Conf: 90%)
+         Height & surface adjusted: 3.8 (base: 3.8)
+    ❌ Double Faults: Expected 2.9 | O3.5: NO | O4.5: NO (Conf: 53%)
+         Surface adjusted: 2.9 (base: 2.9)
+    🔥 Breaks: Expected 2.0 | O1.5: YES | O2.5: NO (Conf: 51%)
+         Return skill vs opponent serve defense: 2.0 breaks expected
+
+  👤 NAOMI OSAKA:
+    🚀 Aces: Expected 5.6 | O8.5: NO | O12.5: NO (Conf: 74%)
+         Height & surface adjusted: 5.6 (base: 5.6)
+    ❌ Double Faults: Expected 3.5 | O3.5: NO | O4.5: NO (Conf: 65%)
+         Surface adjusted: 3.5 (base: 3.5)
+    🔥 Breaks: Expected 2.0 | O1.5: YES | O2.5: NO (Conf: 50%)
+         Return skill vs opponent serve defense: 2.0 breaks expected
+
+💰 RECOMMENDED BETS:
+  ✅ 🎯 Emma Raducanu Aces Under 5.5
+
+================================================================================
+
+📊 BETTING SUMMARY & STRATEGY
+==================================================
+📈 Matches Analyzed: 6
+📊 Average Confidence: 11.1%
+🟢 High Confidence Bets: 0
+🟡 Medium Confidence Bets: 16
+🎯 Player Prop Opportunities: 12
+
+🎯 BEST PLAYER PROP BETS:
+  1. 🎯 Taylor Fritz Aces Over 12.5 (HIGH CONFIDENCE)
+  2. 🎯 Ben Shelton Aces Over 12.5 (HIGH CONFIDENCE)
+  3. 🎯 Ben Shelton Double Faults Over 3.5
+  4. 🎯 Alex de Minaur Aces Under 5.5
+  5. 🎯 Frances Tiafoe Double Faults Over 3.5
+
+⚠️ RISK MANAGEMENT GUIDELINES:
+• Maximum 3-5% of bankroll per individual bet
+• Focus on high-confidence picks for larger stakes
+• Use prop bets for entertainment/small stakes
+• Monitor live odds for better value
+• Track all bets for long-term analysis
+• Never chase losses with larger bets
+
+💡 FINAL TIPS:
+• Surface expertise matters - clay specialists on clay, etc.
+• Fresh players often outperform fatigued opponents
+• Big servers perform better on faster surfaces
+• Check weather conditions for outdoor matches
+• Live betting can offer better value than pre-match
+
+📞 Questions? Analysis generated at 2025-07-24 02:54:50
+🍀 Best of luck with your bets!
+================================================================================
